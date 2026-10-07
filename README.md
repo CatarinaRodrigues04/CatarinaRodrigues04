@@ -40,5 +40,5 @@ Computer Science student with a strong interest in software development and prob
 ---
 ### Most Used Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatarinaRodrigues04&layout=compact&theme=transparent&hide_border=true&title_color=333333&text_color=666666" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatarinaRodrigues04&layout=compact&theme=transparent&hide_border=true&title_color=333333&text_color=666666&v=1" alt="Top Languages">
 </div>
