@@ -2,8 +2,7 @@
   <h1>Catarina Rodrigues</h1>
   <p><b>BSc in Computer Science · Universidade do Minho, Braga</b></p>
 
-  <!-- Substitui os links do href="" pelos teus reais -->
-  <a href="https://www.linkedin.com/in/catarina-rodrigues-b554863a8"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/catarina-rodrigues-cr04"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:catarina.a.rodrigues.0406@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Location-Braga%2C%20Portugal-333333?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
 </div>
