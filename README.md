@@ -35,8 +35,3 @@ Computer Science student with a strong interest in software development and prob
 
 * **[Personal Projects](https://github.com/CatarinaRodrigues04/personal-projects)**
   Work outside of coursework, focused on exploring new technologies, automating tasks, and personal interests.
-
----
-### Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CatarinaRodrigues04&layout=compact&theme=transparent&hide_border=true&title_color=333333&text_color=666666)
